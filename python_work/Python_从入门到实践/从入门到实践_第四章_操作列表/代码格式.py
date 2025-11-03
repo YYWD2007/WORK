@@ -1,0 +1,1 @@
+#每次缩进都4个空格（tab), 行长不超过79，72，空行...(Python Enhancement Proposal, PEP)

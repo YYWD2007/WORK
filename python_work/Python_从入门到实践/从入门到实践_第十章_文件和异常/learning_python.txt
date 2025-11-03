@@ -1,0 +1,9 @@
+In Python, you can read data from a website using the urllib module.
+In Python, you can easily manipulate strings using built-in string methods like .strip() or .split().
+In Python, you can open and read files with the open() function or the pathlib module.
+In Python, you can extract numbers from text using regular expressions (re module).
+In Python, you can create your own functions to organize and reuse code.
+In Python, you can use loops to repeat actions for each item in a list or line in a file.
+In Python, you can check if a substring exists using the in keyword.
+In Python, you can handle large text files efficiently with simple syntax.
+
